@@ -35,7 +35,6 @@ This project presents an interactive **Power BI Business Performance Dashboard**
 ├── PowerBI_Project.pbix      # Power BI dashboard
 ├── README.md                 # Project documentation
 └── images/
-    └── dashboard.png         # Dashboard screenshot (optional)
 ```
 
 ## Key Insights
