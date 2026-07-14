@@ -57,3 +57,7 @@ The queries showcase advanced database and data warehouse concepts:
 * **Window Functions:** `ROW_NUMBER() OVER(PARTITION BY ... ORDER BY ...)` and `LAG() OVER(...)` for ranking and time-series growth tracking.
 * **Aggregations & Joins:** Highly optimized joins linking fact tables to dimension accounts and products.
 * **Statistical Benchmarks:** Cross-joining average metrics against row-level attributes to filter outliers and underperformers dynamically.
+
+## Author
+
+**Hung Khanh Nguyen**
