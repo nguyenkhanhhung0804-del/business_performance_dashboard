@@ -1,6 +1,6 @@
 # Plant Sales Analytics (SQL & Power BI Data Modeling)
 
-This repository contains a comprehensive data analysis project focused on regional plant sales, product performance, and financial reporting. It utilizes a multi-table database (`Plant_DTS.xls`) to extract key business insights using custom **SQL Server / T-SQL** queries and structured data relationship models.
+This repository contains a comprehensive data analysis project focused on regional plant sales, product performance, and financial reporting. It utilizes a multi-table database (`Plant_DTS.xls`) to extract key business insights using custom **T-SQL** queries and structured data relationship models.
 
 ---
 
